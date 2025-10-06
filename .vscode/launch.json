@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Csharp",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Csharp.csproj",
+            "launchConfigurationId": "TargetFramework=;Csharp"
+        }
+    ]
+}

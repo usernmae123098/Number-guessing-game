@@ -1,0 +1,14 @@
+C:\Users\parde\OneDrive\Desktop\Csharp\bin\Debug\net9.0\Csharp.exe
+C:\Users\parde\OneDrive\Desktop\Csharp\bin\Debug\net9.0\Csharp.deps.json
+C:\Users\parde\OneDrive\Desktop\Csharp\bin\Debug\net9.0\Csharp.runtimeconfig.json
+C:\Users\parde\OneDrive\Desktop\Csharp\bin\Debug\net9.0\Csharp.dll
+C:\Users\parde\OneDrive\Desktop\Csharp\bin\Debug\net9.0\Csharp.pdb
+C:\Users\parde\OneDrive\Desktop\Csharp\obj\Debug\net9.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parde\OneDrive\Desktop\Csharp\obj\Debug\net9.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\parde\OneDrive\Desktop\Csharp\obj\Debug\net9.0\Csharp.AssemblyInfo.cs
+C:\Users\parde\OneDrive\Desktop\Csharp\obj\Debug\net9.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\parde\OneDrive\Desktop\Csharp\obj\Debug\net9.0\Csharp.dll
+C:\Users\parde\OneDrive\Desktop\Csharp\obj\Debug\net9.0\refint\Csharp.dll
+C:\Users\parde\OneDrive\Desktop\Csharp\obj\Debug\net9.0\Csharp.pdb
+C:\Users\parde\OneDrive\Desktop\Csharp\obj\Debug\net9.0\Csharp.genruntimeconfig.cache
+C:\Users\parde\OneDrive\Desktop\Csharp\obj\Debug\net9.0\ref\Csharp.dll
