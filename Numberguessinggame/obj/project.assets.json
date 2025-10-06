@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\parde\\OneDrive\\Desktop\\Csharp\\Csharp.csproj",
+      "projectUniqueName": "C:\\Users\\parde\\OneDrive\\Desktop\\Csharp\\Numberguessinggame\\Csharp.csproj",
       "projectName": "Csharp",
-      "projectPath": "C:\\Users\\parde\\OneDrive\\Desktop\\Csharp\\Csharp.csproj",
+      "projectPath": "C:\\Users\\parde\\OneDrive\\Desktop\\Csharp\\Numberguessinggame\\Csharp.csproj",
       "packagesPath": "C:\\Users\\parde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\parde\\OneDrive\\Desktop\\Csharp\\obj\\",
+      "outputPath": "C:\\Users\\parde\\OneDrive\\Desktop\\Csharp\\Numberguessinggame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\parde\\AppData\\Roaming\\NuGet\\NuGet.Config"
